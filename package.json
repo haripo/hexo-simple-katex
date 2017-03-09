@@ -1,0 +1,24 @@
+{
+  "name": "hexo-simple-katex",
+  "version": "0.0.1",
+  "description": "Hexo plugin for rendering TeX math by katex, with no extra dependency",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haripo/hexo-simple-katex.git"
+  },
+  "keywords": [
+    "hexo",
+    "katex",
+    "math"
+  ],
+  "author": "haripo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haripo/hexo-simple-katex/issues"
+  },
+  "homepage": "https://github.com/haripo/hexo-simple-katex#readme"
+}
