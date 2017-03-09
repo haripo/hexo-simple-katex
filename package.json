@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/haripo/hexo-simple-katex/issues"
   },
-  "homepage": "https://github.com/haripo/hexo-simple-katex#readme"
+  "homepage": "https://github.com/haripo/hexo-simple-katex#readme",
+  "dependencies": {
+    "katex": "^0.7.1"
+  }
 }
