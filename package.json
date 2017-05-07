@@ -1,6 +1,6 @@
 {
   "name": "hexo-simple-katex",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Hexo plugin for rendering TeX math by katex, with no extra dependency",
   "main": "index.js",
   "scripts": {
