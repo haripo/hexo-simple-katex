@@ -1,4 +1,7 @@
 # hexo-simple-katex
+
+[WARNING] This project is no longer maintained. Use [hexo-katexify](https://github.com/dotcs/hexo-katexify).
+
 Hexo plugin for rendering TeX math by katex, with no extra dependency
 
 ## Installation
